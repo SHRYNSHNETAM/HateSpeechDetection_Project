@@ -2,13 +2,20 @@
 This project aims to detect hate speech and offensive language in tweets using machine learning algorithms. The dataset used for this project is "Hate Speech and Offensive Language Dataset" from the University of Victoria.
 
 ## Requirements
-Python 3.x
+Python 3.10.8
+
 nltk
+
 numpy
+
 pandas
+
 matplotlib
+
 scikit-learn
+
 seaborn
+
 wordcloud
 
 ## Installation
