@@ -23,19 +23,28 @@ The dataset used in this project contains three columns: "class", "tweet", and "
 The project implementation is done in Jupyter Notebook Hate Speech Detection.ipynb.
 
 1.The dataset is loaded using pandas library and preprocessing is done using nltk library.
+
 2.The processed data is split into training and testing sets.
+
 3.Machine learning models such as Decision Tree, K-Nearest Neighbor, Logistic Regression, Naive Bayes, and Random Forest are trained on the training set.
+
 4.The trained models are tested on the testing set.
+
 5.The accuracy scores and confusion matrices are calculated for each model.
 
 ## Results
 The accuracy scores for each model are as follows:
 
 Random Forest Accuracy: 0.8785555779705467
+
 Logistic Regression Accuracy: 0.9039741779301997
+
 Decision Tree Accuracy: 0.8777486382892878
+
 Naive Bayes Accuracy: 0.3147064756909421
+
 KNN Accuracy: 0.8317530764575348
+
 The results show that Logistic Regression has the highest accuracy score among all the models.
 
 ## Conclusion
