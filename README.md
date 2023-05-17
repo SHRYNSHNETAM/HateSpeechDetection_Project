@@ -21,6 +21,7 @@ wordcloud
 ## Installation
 Clone the repository
 Install the required packages by running pip install -r requirements.txt
+
 Run the Jupyter Notebook Hate Speech Detection.ipynb to see the implementation 
 
 ## Dataset
